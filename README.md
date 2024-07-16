@@ -21,11 +21,11 @@
 
 ###
 
-<h1 align="center">Happy to help you</h1>
+<h1 align="center">HELLO!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -57,18 +57,12 @@
 
 ###
 
-<h3 align="left">My Status :</h3>
+<h3 align="center">My Status :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NIRESH2003&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="1000" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 </div>
 
 ###
